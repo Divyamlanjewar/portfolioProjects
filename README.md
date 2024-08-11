@@ -1,0 +1,1 @@
+A complete Tableau dashboard data analytics project walkthrough. Learn to create and use charts, sets, calculated fields, parameters and dynamic sheet swapping to create a comprehensive, fully-interactive COVID tracker for your country.
